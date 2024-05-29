@@ -1,4 +1,3 @@
-import java.util.Scanner;  
 import java.io.scanner;
 import java.io.outputprinter;
 import java.io.inputprinter;
